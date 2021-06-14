@@ -1,0 +1,23 @@
+@import url("２P.css");
+
+body
+/*脳背景*/{
+	background-image: url("無題338_20191202222129.PNG");
+	margin: 0px;
+	padding: 0px;
+	height: auto;
+	width: auto;
+	background-size: contain;
+	background-position: center;
+	background-attachment: fixed;}
+
+.musi{
+	position:center;
+	 text-align:center;
+	display: table-cell;
+	width: 1700px;
+	height: 1680px;
+	vertical-align: middle;
+	text-align: center;
+	attachment: fixed;
+		}
