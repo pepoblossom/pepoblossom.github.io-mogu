@@ -1,0 +1,175 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+/*脳背景*/{
+	background-image: url("動くHOME２.gif");
+	margin: 0px;
+	padding: 0px;
+	height: auto;
+	width: auto;
+	background-size: contain;
+	background-position: center;
+	background-attachment: fixed;}
+
+
+	
+.TV{
+				 position: fixed;
+				margin-left: 75px;
+				top: 310px;
+			}
+			.TV img {
+				display: block;
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+			.TV img:hover {
+				transform: scale(1.4);	/*画像の拡大率*/
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+
+
+
+.car{
+				 position: fixed;
+				margin-left: 130px;
+				top: 340px;
+
+			}
+			.car img {
+				display: block;
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+			.car img:hover {
+				transform: scale(1.3);	/*画像の拡大率*/
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+
+
+
+
+
+.nakayosi{
+	
+				 position: fixed;
+				margin-left: 315px;
+				top: 240px;
+			}
+			.nakayosi img {
+				display: block;
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+			.nakayosi img:hover {
+				transform: scale(1.2);	/*画像の拡大率*/
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+
+
+.ero{
+				 position: fixed;
+				margin-left: 170px;
+				top: 50px;
+			}
+
+			.ero img {
+				display: block;
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+			.ero img:hover {
+				transform: scale(1.2);	/*画像の拡大率*/
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+
+
+.osyaberi{
+				 position: fixed;
+				margin-left: 465px;
+				top: 60px;
+			}
+
+			.osyaberi img {
+				display: block;
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+			.osyaberi img:hover {
+				transform: scale(1.2);	/*画像の拡大率*/
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+
+
+.sport{
+				 position: fixed;
+				margin-left: 85px;
+				top: 100px;
+			}
+
+			.sport img {
+				display: block;
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+			.sport img:hover {
+				transform: scale(1.2);	/*画像の拡大率*/
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+
+.okasi{
+				 position: fixed;
+				margin-left: 525px;
+				top: 290px;
+			}
+			.okasi img {
+				display: block;
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+			.okasi img:hover {
+				transform: scale(1.2);	/*画像の拡大率*/
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+
+
+.monye{
+				 position: fixed;
+				margin-left: 640px;
+				top: 210px;
+			}
+
+			.monye img {
+				display: block;
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+			.monye img:hover {
+				transform: scale(1.2);	/*画像の拡大率*/
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+
+
+.love{
+				 position: fixed;
+				margin-left: 680px;
+				top: 299px;
+			}
+
+			.love img {
+				display: block;
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+			.love img:hover {
+				transform: scale(1.2);	/*画像の拡大率*/
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+
+
+.shop{
+				 position: fixed;
+				margin-left: 590px;
+				top: 39px;
+			}
+
+			.shop img {
+				display: block;
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
+			.shop img:hover {
+				transform: scale(1.2);	/*画像の拡大率*/
+				transition-duration: 0.3s;	/*変化に掛かる時間*/
+			}
